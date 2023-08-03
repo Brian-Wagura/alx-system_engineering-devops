@@ -1,0 +1,3 @@
+#!/bin/bash
+ls -1AF --group-directories-first | tr '\n' ','; echo
+
