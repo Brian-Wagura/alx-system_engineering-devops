@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#Listens to a specified destination and port
+nc -l localhost 98
