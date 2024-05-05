@@ -1,0 +1,13 @@
+Host 84371-web-01
+	HostName 100.25.140.162
+	User ubuntu
+	IdentityFile ~/.ssh/school
+	PubkeyAuthentication yes
+	PasswordAuthentication no
+
+Host 84371-web-02
+         HostName 54.88.135.86
+         User ubuntu
+         IdentityFile ~/.ssh/school
+         PubkeyAuthentication yes
+         PasswordAuthentication no
